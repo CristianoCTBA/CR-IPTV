@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTBG:http://i.imgur.com/rR0GWJK.jpg
+#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="CR-SMALLVILLE
 http://0.0.0.0
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/tRULFKj.jpg" group-title="SMALLVILLE" , 01 - EPISODIO 01
