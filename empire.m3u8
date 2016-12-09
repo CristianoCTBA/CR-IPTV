@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="EMPIRE" , EMPIRE
+http://0.0.0.0
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0NLGmaG.jpg" group-title="EMPIRE" , 01 - EPISODIO 01
+http://cdn.ec.cx/vd/dd/RC/RCServer10/ondemand/EMPRT01EP01.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0NLGmaG.jpg" group-title="EMPIRE" , 01 - EPISODIO 02
+http://cdn.ec.cx/vd/dd/RC/RCServer10/ondemand/EMPRT01EP02.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0NLGmaG.jpg" group-title="EMPIRE" , 01 - EPISODIO 03
+http://cdn.ec.cx/vd/dd/RC/RCServer10/ondemand/EMPRT01EP03.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0NLGmaG.jpg" group-title="EMPIRE" , 01 - EPISODIO 04
+http://cdn.ec.cx/vd/dd/RC/RCServer10/ondemand/EMPRT01EP04.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0NLGmaG.jpg" group-title="EMPIRE" , 01 - EPISODIO 05
+http://cdn.ec.cx/vd/dd/RC/RCServer10/ondemand/EMPRT01EP05.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0NLGmaG.jpg" group-title="EMPIRE" , 01 - EPISODIO 06
+http://cdn.ec.cx/vd/dd/RC/RCServer10/ondemand/EMPRT01EP06.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0NLGmaG.jpg" group-title="EMPIRE" , 01 - EPISODIO 07
+http://cdn.ec.cx/vd/dd/RC/RCServer10/ondemand/EMPRT01EP07.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0NLGmaG.jpg" group-title="EMPIRE" , 01 - EPISODIO 08
+http://cdn.ec.cx/vd/dd/RC/RCServer10/ondemand/EMPRT01EP08.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0NLGmaG.jpg" group-title="EMPIRE" , 01 - EPISODIO 09
+http://cdn.ec.cx/vd/dd/RC/RCServer10/ondemand/EMPRT01EP09.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0NLGmaG.jpg" group-title="EMPIRE" , 01 - EPISODIO 10
+http://cdn.ec.cx/vd/dd/RC/RCServer10/ondemand/EMPRT01EP10.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0NLGmaG.jpg" group-title="EMPIRE" , 01 - EPISODIO 11
+http://cdn.ec.cx/vd/dd/RC/RCServer10/ondemand/EMPRT01EP11.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0NLGmaG.jpg" group-title="EMPIRE" , 01 - EPISODIO 12
+http://cdn.ec.cx/vd/dd/RC/RCServer10/ondemand/EMPRT01EP12.mp4

@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="A BIBLIA" , A BIBLIA
+http://0.0.0.0
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/dOTNdGz.gif" group-title="A BIBLIA" , 01 - EPISODIO 01
+http://cdn.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP01.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/dOTNdGz.gif" group-title="A BIBLIA" , 01 - EPISODIO 02
+http://cdn.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP02.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/dOTNdGz.gif" group-title="A BIBLIA" , 01 - EPISODIO 03
+http://cdn.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP03.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/dOTNdGz.gif" group-title="A BIBLIA" , 01 - EPISODIO 04
+http://cdn.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP04.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/dOTNdGz.gif" group-title="A BIBLIA" , 01 - EPISODIO 05
+http://cdn.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP05.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/dOTNdGz.gif" group-title="A BIBLIA" , 01 - EPISODIO 06
+http://cdn.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP06.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/dOTNdGz.gif" group-title="A BIBLIA" , 01 - EPISODIO 07
+http://cdn.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP07.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/dOTNdGz.gif" group-title="A BIBLIA" , 01 - EPISODIO 08
+http://cdn.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP08.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/dOTNdGz.gif" group-title="A BIBLIA" , 01 - EPISODIO 09
+http://cdn.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP09.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/dOTNdGz.gif" group-title="A BIBLIA" , 01 - EPISODIO 10
+http://cdn.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP10.mp4
