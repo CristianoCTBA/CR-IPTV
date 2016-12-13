@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="STRANGER THINGS" , STRANGER THINGS
+http://0.0.0.0
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0TOxIid.jpg" group-title="STRANGER THINGS" , EPISODIO 01
+http://cdn.ec.cx/vd/dd/RC/RCServer11/ondemand/STRNGRTHNGT01EP01.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0TOxIid.jpg" group-title="STRANGER THINGS" , EPISODIO 02
+http://cdn.ec.cx/vd/dd/RC/RCServer11/ondemand/STRNGRTHNGTEP02.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0TOxIid.jpg" group-title="STRANGER THINGS" , EPISODIO 03
+http://cdn.ec.cx/vd/dd/RC/RCServer11/ondemand/STRNGRTHNGTEP03.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0TOxIid.jpg" group-title="STRANGER THINGS" , EPISODIO 04
+http://cdn.ec.cx/vd/dd/RC/RCServer11/ondemand/STRNGRTHNGTEP04.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0TOxIid.jpg" group-title="STRANGER THINGS" , EPISODIO 05
+http://cdn.ec.cx/vd/dd/RC/RCServer11/ondemand/STRNGRTHNGTEP05.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0TOxIid.jpg" group-title="STRANGER THINGS" , EPISODIO 06
+http://cdn.ec.cx/vd/dd/RC/RCServer11/ondemand/STRNGRTHNGTEP06.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0TOxIid.jpg" group-title="STRANGER THINGS" , EPISODIO 07
+http://cdn.ec.cx/vd/dd/RC/RCServer11/ondemand/STRNGRTHNGTEP07.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/0TOxIid.jpg" group-title="STRANGER THINGS" , EPISODIO 08
+http://cdn.ec.cx/vd/dd/RC/RCServer11/ondemand/STRNGRTHNGTEP08.mp4
