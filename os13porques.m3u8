@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="http://i.imgur.com/YmGSUMC.jpg" group-title="OS 13 PORQUES" , OS 13 PORQUES
+http://0.0.0.0
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/ksfEKQ4.jpg" group-title="OS 13 PORQUES" , 01 - EPISODIO 01
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/OS13PRQT01EP01.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/ksfEKQ4.jpg" group-title="OS 13 PORQUES" , 01 - EPISODIO 02
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/OS13PRQT01EP02.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/ksfEKQ4.jpg" group-title="OS 13 PORQUES" , 01 - EPISODIO 03
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/OS13PRQT01EP03.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/ksfEKQ4.jpg" group-title="OS 13 PORQUES" , 01 - EPISODIO 04
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/OS13PRQT01EP04.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/ksfEKQ4.jpg" group-title="OS 13 PORQUES" , 01 - EPISODIO 05
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/OS13PRQT01EP05.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/ksfEKQ4.jpg" group-title="OS 13 PORQUES" , 01 - EPISODIO 06
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/OS13PRQT01EP06.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/ksfEKQ4.jpg" group-title="OS 13 PORQUES" , 01 - EPISODIO 07
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/OS13PRQT01EP07.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/ksfEKQ4.jpg" group-title="OS 13 PORQUES" , 01 - EPISODIO 08
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/OS13PRQT01EP08.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/ksfEKQ4.jpg" group-title="OS 13 PORQUES" , 01 - EPISODIO 09
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/OS13PRQT01EP09.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/ksfEKQ4.jpg" group-title="OS 13 PORQUES" , 01 - EPISODIO 10
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/OS13PRQT01EP10.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/ksfEKQ4.jpg" group-title="OS 13 PORQUES" , 01 - EPISODIO 11
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/OS13PRQT01EP11.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/ksfEKQ4.jpg" group-title="OS 13 PORQUES" , 01 - EPISODIO 12
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/OS13PRQT01EP12.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/ksfEKQ4.jpg" group-title="OS 13 PORQUES" , 01 - EPISODIO 13
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/OS13PRQT01EP13.mp4
