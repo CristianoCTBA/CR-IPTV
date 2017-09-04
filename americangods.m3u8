@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="AMERICAN GODS" , AMERICAN GODS
+http://0.0.0.0
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/27CBVKy.jpg" group-title="AMERICAN GODS" , 01 - EPISODIO 01
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/AMRCGDST01EP01.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/27CBVKy.jpg" group-title="AMERICAN GODS" , 01 - EPISODIO 02
+http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/AMRCGDST01EP02.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/27CBVKy.jpg" group-title="AMERICAN GODS" , 01 - EPISODIO 03
+http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/AMRCGDST01EP03.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/27CBVKy.jpg" group-title="AMERICAN GODS" , 01 - EPISODIO 04
+http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/AMRCGDST01EP04.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/27CBVKy.jpg" group-title="AMERICAN GODS" , 01 - EPISODIO 05
+http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/AMRCGDST01EP05.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/27CBVKy.jpg" group-title="AMERICAN GODS" , 01 - EPISODIO 06
+http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/AMRCGDST01EP06.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/27CBVKy.jpg" group-title="AMERICAN GODS" , 01 - EPISODIO 07
+http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/AMRCGDST01EP07.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/27CBVKy.jpg" group-title="AMERICAN GODS" , 01 - EPISODIO 08
+http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/AMRCGDST01EP08.mp4
