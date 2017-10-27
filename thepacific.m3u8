@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="THE PACIFIC" , THE PACIFIC
+http://0.0.0.0
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rNzhFJj.jpg" group-title="THE PACIFIC" , EPISODIO 01
+http://cdnv6.ec.cx/RedeCanais/RCServer08/ondemand/TPCFCDUBEP01.mp4
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rNzhFJj.jpg" group-title="THE PACIFIC" , EPISODIO 02
+http://cdnv6.ec.cx/RedeCanais/RCServer08/ondemand/TPCFCDUBEP02.mp4
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rNzhFJj.jpg" group-title="THE PACIFIC" , EPISODIO 03
+http://cdnv6.ec.cx/RedeCanais/RCServer08/ondemand/TPCFCDUBEP03.mp4
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rNzhFJj.jpg" group-title="THE PACIFIC" , EPISODIO 04
+http://cdnv6.ec.cx/RedeCanais/RCServer08/ondemand/TPCFCDUBEP04.mp4
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rNzhFJj.jpg" group-title="THE PACIFIC" , EPISODIO 05
+http://cdnv6.ec.cx/RedeCanais/RCServer08/ondemand/TPCFCDUBEP05.mp4
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rNzhFJj.jpg" group-title="THE PACIFIC" , EPISODIO 06
+http://cdnv6.ec.cx/RedeCanais/RCServer08/ondemand/TPCFCDUBEP06.mp4
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rNzhFJj.jpg" group-title="THE PACIFIC" , EPISODIO 07
+http://cdnv6.ec.cx/RedeCanais/RCServer08/ondemand/TPCFCDUBEP07.mp4
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rNzhFJj.jpg" group-title="THE PACIFIC" , EPISODIO 08
+http://cdnv6.ec.cx/RedeCanais/RCServer08/ondemand/TPCFCDUBEP08.mp4
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rNzhFJj.jpg" group-title="THE PACIFIC" , EPISODIO 09
+http://cdnv6.ec.cx/RedeCanais/RCServer08/ondemand/TPCFCDUBEP09.mp4
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rNzhFJj.jpg" group-title="THE PACIFIC" , EPISODIO FINAL
+http://cdnv6.ec.cx/RedeCanais/RCServer08/ondemand/TPCFCDUBEP10.mp4
